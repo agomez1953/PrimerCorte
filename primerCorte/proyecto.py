@@ -90,7 +90,7 @@ def calcular_recaudo_locales(coste_producto_1,oste_producto_2,coste_producto_3):
 
     pass
 
-def calcular_recaudo_horas_extra(horas_1,horas_2,horas_3,horas_4):
+def calcular_recaudo_horas_extra(hora_1,horas_2,horas_3,horas_4):
     pass
 
 
